@@ -27,7 +27,7 @@ cv.waitKey(0) #waits for infinite time until keypress
 cv.imshow('Cat', resizedImg) #Displaying images 
 cv.waitKey(0) #waits for infinite time until keypress
 
-# capture = cv.VideoCapture('Data/Videos/dog.mp4')
+# capture = cv.VideoCapture('../Data/Videos/dog.mp4')
 
 # while True :
 #     isTrue, frame = capture.read()
