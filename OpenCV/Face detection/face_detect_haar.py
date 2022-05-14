@@ -1,6 +1,5 @@
 import cv2 as cv
 
-
 img = cv.imread('Data/Photos/lady.jpg')
 # cv.imshow('Person', img)
 
